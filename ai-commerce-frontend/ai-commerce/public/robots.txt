@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Allow: /api/
+Allow: /intent/
+
+Sitemap: https://aicommerce.com.br/sitemap.xml
